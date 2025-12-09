@@ -1,0 +1,388 @@
+❯ tree
+.
+├── 0100000079_13_Desnutricion.pdf
+├── 9219c257-c1fb-4f40-92b7-dcb4220c4a42 DEFUNCION CORREGIDA.pdf
+├── ACV
+│   ├── ACV TRATAMIENTO DE LA HIPERTENSION.jpg
+│   ├── ACV Y DIABETES NITROPRUSIATO.jpg
+│   ├── ACV.pdf
+│   ├── ALGORITMOS ACV.jpg
+│   ├── INCLUSION Y EXCLUSION ACV.jpg
+│   ├── NITROPRUSIATO SODICO NITROGLICERINA.jpg
+│   ├── NITROPRUSIATO-LABETALOL de infusiones y medicamentos gotas.xlsx
+│   ├── SEDACION REMISION.jpg
+│   └── nihss.pdf
+├── Algoritmos_en_urgencias.pdf
+├── C-04-05-A-010, V2.0 Estándar días de incapacidad (1).xlsx
+├── Cardio
+│   ├── ALGORITMO DE PARO.jpg
+│   ├── ALGORITMO DE SINDROME CORONARIO AGUDO.jpg
+│   ├── ANTIHIPERTENSIVOS
+│   │   ├── ANTIHIPERTENSIVOS.docx
+│   │   ├── ANTIHIPERTENSIVOS.pdf
+│   │   ├── hta hnsc ec.pdf
+│   │   └── hta hnsc ec.pptx
+│   ├── Anti isquemico.docx
+│   ├── Antiarritmicos
+│   │   ├── ANTIARRITMICOS.pdf
+│   │   ├── Arritmia inestable TTO.jpg
+│   │   ├── IMG_20190420_154708.jpg
+│   │   ├── arritmia algoritmo.jpg
+│   │   ├── arritmia extrasistole lidocaina.jpg
+│   │   └── arritmia fibril auric amiodarona.jpg
+│   ├── BRADICARDIA CON PULSO.jpg
+│   ├── Bradicardia tto.jpg
+│   ├── DOLOR PRECORDIAL DETALLES via oral.jpg
+│   ├── DOLOR PRECORDIAL INDICACIONES ASA.jpg
+│   ├── DOSIS DETALLE ALGORITMOS DE PARO.jpg
+│   ├── Dolor toraxico 2.png
+│   ├── Dolor toraxico.png
+│   ├── IM LABORATORIO 2.jpg
+│   ├── IM LABORATORIO.jpg
+│   ├── INFARTO AGUDO MIOCARDIO DETALLES via oral.jpg
+│   ├── LIDOCAINA DOPAMINA ADRENALINA Formulas de infusiones y medicamentos gotas.xlsx
+│   ├── LISTA DE COMPROBACION FIBRINOLITICOS IMEST.jpg
+│   ├── NITROPRUSIATO SODICO NITROGLICERINA-1.jpg
+│   ├── NOTA IMCESST.jpg
+│   ├── PARO CARDIACO.jpg
+│   ├── POST PARO.jpg
+│   ├── SEDACION REMISION.jpg
+│   ├── SEMAFORIZACIÓN CARRO DE PARO.xlsx
+│   ├── TAQUICARDIA CON PULSO.jpg
+│   ├── TRATAMIENTO FIBRINOLITICOS IMEST.jpg
+│   ├── antisquemico mas metoprolol.jpg
+│   ├── ecg
+│   │   ├── HVI.jpg
+│   │   ├── Interpretación básica ECG.docx
+│   │   ├── Rythm-Strip.jpg
+│   │   ├── ecg.pdf
+│   │   ├── ekg_complex_es-svg.png
+│   │   ├── images.jpg
+│   │   ├── luq.jpg
+│   │   └── triangulo de Einthoven.jpg
+│   ├── falla cardiaca derecha.pdf
+│   ├── hta hnsc ec.pdf
+│   ├── hta hnsc ec.pptx
+│   ├── nitroglicerina.jpg
+│   └── timi killip
+│       ├── CLASIFICACION TIMI.xlsx
+│       ├── killip 1.png
+│       └── killip 2.png
+├── DIABETES
+│   ├── ACID BASE NOMOGRAM.jpg
+│   ├── COMO SE AJUSTA LA INSULINA EN DOMICILIO.pdf
+│   ├── CUESTIONARIO 1.docx
+│   ├── CUESTIONARIO 2 DIABETES.docx
+│   ├── Como_ajustar 70-30.pdf
+│   ├── Copia de Cálculo de Insulina K+ MEJORADO.xlsx
+│   ├── Copia de cambio_dolar_peso_bolivar 19 11 2023.xlsx
+│   ├── Copia de cambio_dolar_peso_bolivar 24 08 2023.xlsx
+│   ├── Copia de cambio_dolar_peso_bolivar.xlsx
+│   ├── Cálculo de Insulina K+.xlsx
+│   ├── Diabetes y embarazo
+│   │   ├── nutricion y diabetes embarazo-1.jpg
+│   │   └── nutricion y diabetes embarazo.jpg
+│   ├── ESQUEMA MOVIL DE INSULINA CRISTALINA.jpg
+│   ├── HIPOGLICEMIANTES ORALES NPH.docx
+│   ├── HIPOGLICEMIANTES ORALES.pdf
+│   ├── Humalog_Mix5050_Informacion_de_prescripcion.pdf
+│   ├── Indicaciones Cetoacidosis hiperosmolar.docx
+│   ├── Insulina Rapida-Lenta.jpg
+│   ├── cambio dolar peso bolivar.xlsx
+│   ├── cetoacidosis.png
+│   ├── cetoacidosis_1.jpg
+│   ├── correccion de Insulina.png
+│   ├── corrección glicemia 2.png
+│   ├── cuadros acido base
+│   │   ├── Acido Base Equilibrio.pdf
+│   │   ├── MIXTO acidosis respiratoria con alcalosis metabolica.jpg
+│   │   ├── Screenshot_2018-10-30-15-52-01.png
+│   │   ├── alcalosis acidosis.png
+│   │   ├── calculo concentracion hidrogeniones.png
+│   │   ├── cuadro resumen alcalosis acidosis.png
+│   │   ├── laboratorio anion gap.jpg
+│   │   ├── laboratorio trastornos mixtos.jpg
+│   │   ├── prediccion de compensacion.jpg
+│   │   ├── pregunta de examen.jpg
+│   │   ├── tetania post acidotica.jpg
+│   │   ├── tipo de trastorno y componente.jpg
+│   │   ├── trastorno mixto acidosis compensada.png
+│   │   ├── trastornos mixtos.jpg
+│   │   ├── trastornos-mixtos-cido-base-10-638.jpg
+│   │   ├── trastornos-mixtos-cido-base-15-638.jpg
+│   │   ├── trastornos-mixtos-cido-base-17-638.jpg
+│   │   ├── trastornos-mixtos-cido-base-18-638.jpg
+│   │   ├── trastornos-mixtos-cido-base-19-638.jpg
+│   │   ├── trastornos-mixtos-cido-base-24-638.jpg
+│   │   ├── trastornos-mixtos-cido-base-25-638.jpg
+│   │   ├── trastornos-mixtos-cido-base-26-638.jpg
+│   │   ├── trastornos-mixtos-cido-base-27-638.jpg
+│   │   ├── trastornos-mixtos-cido-base-28-638.jpg
+│   │   ├── trastornos-mixtos-cido-base-29-638.jpg
+│   │   ├── trastornos-mixtos-cido-base-30-638.jpg
+│   │   ├── trastornos-mixtos-cido-base-31-638.jpg
+│   │   ├── trastornos-mixtos-cido-base-32-638.jpg
+│   │   ├── trastornos-mixtos-cido-base-35-638.jpg
+│   │   ├── trastornos-mixtos-cido-base-36-638.jpg
+│   │   ├── trastornos-mixtos-cido-base-37-638.jpg
+│   │   ├── trastornos-mixtos-cido-base-7-638.jpg
+│   │   ├── trastornos-mixtos-cido-base-8-638.jpg
+│   │   ├── trastornos-mixtos-cido-base-9-638.jpg
+│   │   └── valores normales gasometria.jpg
+│   ├── cálculo nutricional.xlsx
+│   ├── diabetes tipo 1.jpg
+│   ├── insulinas.png
+│   ├── ~$Copia de cambio_dolar_peso_bolivar 19 11 2023.xlsx
+│   ├── ~$cambio dolar peso bolivar.xlsx
+│   ├── ~WRL1380.tmp
+│   └── ~WRL2187.tmp
+├── DIAGNOSTICOS.xlsx
+├── EBPOC TRATAMIENTO
+│   ├── BODE INDEX.png
+│   ├── Broncodilatadores.jpg
+│   ├── DETALLES DIFICULTAD RESPIRATORIA.jpg
+│   ├── EBOC Gold .png
+│   ├── EBOC clasificacion.png
+│   ├── INSUF RESPIRATORIO DETALLE DOSIS.jpg
+│   ├── LAMA-LABA terbutalina.png
+│   ├── alcalosis acidosis.png
+│   ├── antibioticos alternativas.png
+│   ├── brocodilatadores puff.png
+│   ├── ebpoc detalles.jpg
+│   ├── evaluacion CAT-EBOC.png
+│   ├── oxigenoterapia O2WEB.pdf
+│   ├── tratamiento segun grupo.png
+│   ├── tto ebpoc detalles 2.jpg
+│   ├── tto insuf ebpoc RESPIRATORIO.jpg
+│   └── venturi.png
+├── EPILEPSIA
+│   ├── ANTIEPILEPTICOS.xlsx
+│   ├── antiepilepticos.png
+│   └── ~$ANTIEPILEPTICOS.xlsx
+├── Formulas de infusiones y medicamentos gotas.xlsx
+├── GASTRO
+│   └── HEMORRAGIA DIGESTIVA ALTA.xlsx
+├── GLASGOW.jpg
+├── GUIA_MEDICA_de_Bolsillo con graficos.pdf
+├── LINK MEDICAMENTOS POS.docx
+├── LINK MEDICINA LEGAL.docx
+├── Medicina de Urgencias y Emergencias. Jimenez Murillo 5a_booksmedicos.org.pdf
+├── NINOS
+│   ├── 113_Desnutrición aguda, moderada y severa en menores de 5 años_2019 + DATOS BASICOS.pdf
+│   ├── ACETILCISTEINA NINOS.jpg
+│   ├── DESNUTRICION AGUDA PE XII 2022.pdf
+│   ├── DOSIS PEDIATRICA - YOPAL.xlsx
+│   ├── Desnutrición en menores F113.pdf
+│   ├── FB836E10
+│   ├── GEMELAS INDIGENAS PAÑALITIS BAJO PESO AL NACER HECHOS.docx
+│   ├── Hoja de Cálculo para Dosis Pediátricas.xls
+│   ├── Maduracion Pulmonar
+│   │   └── Maduracion Pulmonar.jpg
+│   ├── RptHistoria REMISION POR DESNUTRICION Y GASTROENTERITIS 27 11 2023.pdf
+│   ├── diarrea en niños.docx
+│   ├── dosis ninos Y YOPAL INTEGRADO.xlsx
+│   ├── dosis ninos.xlsx
+│   ├── ictericia neonatal
+│   │   ├── Guardado con Autorrecuperación de 13 07 20 TELEFONICA  ANDRES FELIPE MORENO  INFANTE  INFANCIA.asd.docx
+│   │   ├── IMG_20170814_081153.jpg
+│   │   ├── IMG_20170814_081242.jpg
+│   │   ├── IMG_20170814_081412.jpg
+│   │   └── IMG_20170814_081524.jpg
+│   ├── metodo holliday segar.xls
+│   ├── peso talla edad.jpg
+│   ├── refiera niños.pdf
+│   ├── respiratorio niños
+│   │   ├── Asma
+│   │   │   ├── Asma Clasificacion.png
+│   │   │   ├── Asma Clinica.png
+│   │   │   ├── Asma Tratamiento.png
+│   │   │   ├── Asma clasificacion2.png
+│   │   │   ├── Asma concepto.png
+│   │   │   ├── Escala  Bierman.png
+│   │   │   └── algoritmo asma niños.jpg
+│   │   ├── Bierman-Pearson-Tal.png
+│   │   ├── Croup
+│   │   │   ├── Croup etiologia.png
+│   │   │   ├── Croup fisiopatologia.png
+│   │   │   ├── Croup sindrome.png
+│   │   │   ├── Croup tratamiento.png
+│   │   │   ├── Croup viral LTB.png
+│   │   │   ├── Laringitis aguda.png
+│   │   │   ├── Laringo Traqueo Bronquitis.png
+│   │   │   └── Westley Score.png
+│   │   ├── Epoglotitis
+│   │   │   ├── Screenshot_2018-11-03-12-24-20.png
+│   │   │   ├── Screenshot_2018-11-03-12-24-37.png
+│   │   │   ├── Screenshot_2018-11-03-12-25-35.png
+│   │   │   ├── Screenshot_2018-11-03-12-26-15.png
+│   │   │   ├── Screenshot_2018-11-03-12-26-50.png
+│   │   │   └── Screenshot_2018-11-03-12-30-35.png
+│   │   ├── FORMULA MEZCLAS NEBULIZACION 3 POR CIENTO.xlsx
+│   │   ├── Westley score.png
+│   │   ├── bronquiolitis total.jpg
+│   │   ├── fc y fr niños.jpg
+│   │   ├── frecuencia x edad.jpg
+│   │   ├── fármacos inhaladores.png
+│   │   ├── laringomalasia
+│   │   │   ├── laringomalasia.png
+│   │   │   └── laringomalasia2.png
+│   │   ├── mezcla de soluciones celular.xlsx
+│   │   ├── mis apuntes resp. niños
+│   │   │   ├── Asma Epiglotitis.jpg
+│   │   │   ├── laringitis traqueitis resf comun.jpg
+│   │   │   ├── mononucleosis OMA.jpg
+│   │   │   └── neumonia crup.jpg
+│   │   ├── neumon intrahosp pseudomona klebsiella tto ceftacidima.png
+│   │   ├── neumonia intrahospitalaria.png
+│   │   ├── preguntas examen
+│   │   │   ├── Screenshot_2018-11-03-12-42-54.png
+│   │   │   ├── Screenshot_2018-11-03-12-44-01.png
+│   │   │   ├── Screenshot_2018-11-03-12-45-02.png
+│   │   │   ├── Screenshot_2018-11-03-12-45-18.png
+│   │   │   ├── Screenshot_2018-11-03-12-47-43.png
+│   │   │   ├── Screenshot_2018-11-03-12-53-09.png
+│   │   │   ├── Screenshot_2018-11-03-13-07-02.png
+│   │   │   ├── Screenshot_2018-11-03-13-11-16.png
+│   │   │   ├── Screenshot_2018-11-03-17-15-02.png
+│   │   │   ├── Screenshot_2018-11-03-17-15-26.png
+│   │   │   ├── Screenshot_2018-11-03-17-16-01.png
+│   │   │   └── Screenshot_2018-11-03-17-16-41.png
+│   │   ├── respiratorio niño 20 kg.jpg
+│   │   ├── resumen era.pdf
+│   │   └── traqueitis bacteriana (croup pseudomembranoso)
+│   │       ├── Screenshot_2018-11-03-12-34-33.png
+│   │       └── Screenshot_2018-11-03-12-35-15.png
+│   ├── vacunaciones
+│   │   └── IMG_20170815_122240.jpg
+│   ├── ~$DOSIS PEDIATRICA - YOPAL.xlsx
+│   ├── ~$dosis ninos Y YOPAL INTEGRADO.xlsx
+│   ├── ~$dosis ninos.xlsx
+│   └── ~BROMIUM
+│       ├── 113_Desnutrición aguda, moderada y severa en menores de 5 años_2019 + DATOS BASICOS.pdf
+│       ├── DESNUTRICION AGUDA PE XII 2022.pdf
+│       ├── Desnutrición en menores F113.pdf
+│       └── RptHistoria REMISION POR DESNUTRICION Y GASTROENTERITIS 27 11 2023.pdf
+├── PEDIR SANGRE.jpg
+├── POTASIO
+│   ├── MANEJO DE POTASIO 2.jpg
+│   ├── MANEJO DEL POTASIO 3.jpg
+│   ├── MANEJO DEL POTASIO 4.jpg
+│   ├── MANEJO POTASIO.jpg
+│   ├── POTASIO Formulas de infusiones y medicamentos gotas MEJORADO.xlsx
+│   └── POTASIO Formulas de infusiones y medicamentos gotas.xlsx
+├── RABIA
+│   ├── 300_Agresiones por animales potencialmente transmisores de rabia_2019(1).pdf
+│   ├── FICHA AGRESIONES POR ANIMALES POTENCIALMENTE TRANSMOSORES DE RABIA CORRESPONDIZADO.doc
+│   ├── FICHA AGRESIONES POR ANIMALES POTENCIALMENTE TRANSMOSORES DE RABIA.doc
+│   ├── FICHA AGRESIONES POR ANIMALES POTENCIALMENTE TRANSMOSORES DE RABIA.pdf
+│   ├── IMG_20220516_165641.jpg
+│   ├── RABIA LINK.docx
+│   ├── guia-practica-atencion-agresiones.pdf
+│   ├── rabia esquema.jpg
+│   ├── ~BROMIUM
+│   │   └── 300_Agresiones por animales potencialmente transmisores de rabia_2019(1).pdf
+│   └── ~WRL3873.tmp
+├── RABIA.jpg
+├── REMISION ORTOPEDIA.jpg
+├── Resumen ACV sindromes coronarios.pdf
+├── SEDACION-INTUBACION
+│   ├── Midazolam Fentanil Rocuronio.jpg
+│   ├── NOTAS DE SEDACION.jpg
+│   ├── SEDACION REMISION.jpg
+│   ├── SEDACION-INTUBACION.xlsx
+│   ├── intubacion rapida.pdf
+│   ├── sedacion intubación.jpg
+│   └── ~$SEDACION-INTUBACION.xlsx
+├── TOXICOLOGIA
+│   ├── ANTIDOTOS Y TOXICOS cianuro.xlsx
+│   ├── ANTIDOTOS Y TOXICOS.xlsx
+│   ├── Acetaminofen Anticolinergicos.jpg
+│   ├── Antidotos D-L.jpg
+│   ├── Antídotos N-V.jpg
+│   ├── SÍNDROMES Y ANTIDOTOS.pdf
+│   ├── antidotos A-D.jpg
+│   ├── carbon activado.jpg
+│   ├── modulo8 intox acetaminofen.pdf
+│   ├── modulo8 intox acetaminofen.ppsx
+│   ├── ~$ANTIDOTOS Y TOXICOS cianuro.xlsx
+│   └── ~$ANTIDOTOS Y TOXICOS.xlsx
+├── VIOLENCIA SEXUAL
+│   ├── 01edb528-e8f4-1578-b369-12f9e731d501.pdf
+│   ├── CIL EVALUACION ATENCION INTEGRALVICTIMAS VIOLENCIA DE SEXUAL.docx
+│   ├── Circular _0030_de_2014_Violencia_Sexual.pdf
+│   ├── DELITO SEXUAL ULTIMA.pdf
+│   ├── FLUJOGRAMA DE ATENCION A VICTIMAS DE VIOLENCIA SEXUAL DEL PROGRAMA MANOS DE JUSTICIA.docx
+│   ├── Guía para el abordaje forense integral en la investigación de la violencia sexual.pdf
+│   ├── LINK MEDICINA LEGAL.docx
+│   ├── MODELO DE ATENCIÓN A VÍCTIMAS DE VIOLENCIA SEXUAL.pdf
+│   ├── REG_CAD_CUS (1).pdf
+│   ├── REG_CAD_CUS (3).pdf
+│   ├── REG_CAD_CUS (4).pdf
+│   ├── REG_CAD_CUS CUSTODIA.pdf
+│   ├── REG_CAD_CUS.pdf
+│   ├── RUTA VIOLENCIA SEXUAL COVE.ppt
+│   ├── RptHistoria VIOLENCIA SEXUAL SNEIDER.pdf
+│   ├── SOSPECHA DE ABUSO SEXUAL INFANTIL 16 03 2022 1.pdf
+│   ├── VIOLENCIA_SEXUAL_INTRAFAMILIAR.pdf
+│   ├── consentimiento2 (5).pdf
+│   ├── edad-dentaria.pdf
+│   ├── plantillaClinica (1) (1).pdf
+│   ├── plantillaClinica (1).pdf
+│   └── ~BROMIUM
+│       ├── 01edb528-e8f4-1578-b369-12f9e731d501.pdf
+│       ├── CIL EVALUACION ATENCION INTEGRALVICTIMAS VIOLENCIA DE SEXUAL.docx
+│       ├── Guía para el abordaje forense integral en la investigación de la violencia sexual.pdf
+│       ├── MODELO DE ATENCIÓN A VÍCTIMAS DE VIOLENCIA SEXUAL.pdf
+│       ├── REG_CAD_CUS (1).pdf
+│       ├── REG_CAD_CUS (3).pdf
+│       ├── REG_CAD_CUS (4).pdf
+│       ├── REG_CAD_CUS CUSTODIA.pdf
+│       ├── REG_CAD_CUS.pdf
+│       ├── RptHistoria VIOLENCIA SEXUAL SNEIDER.pdf
+│       ├── consentimiento2 (5).pdf
+│       ├── edad-dentaria.pdf
+│       ├── plantillaClinica (1) (1).pdf
+│       └── plantillaClinica (1).pdf
+├── defuncion formato ruaf.docx
+├── infusiones varias de Urgencias
+│   ├── Adren, Amiodarona.jpg
+│   ├── Atropina procainamida.jpg
+│   ├── adrenalina dopamina lidocaina.jpg
+│   └── digox verapam diltiazem SMg.jpg
+├── partograma
+│   ├── CODIGO ROJO.pptx
+│   ├── GUIA 1.  CONTROL PRENATAL Y FACTORES DE RIESGO.pdf
+│   ├── OBSERVACIONES OBSTETRICIA 360.docx
+│   ├── PARTOGRAMA DIGITAL
+│   │   ├── PARTOGRAMA EXEL BALLARD APGAR CAPURRO.xlsx
+│   │   ├── PARTOGRAMA EXEL BALLARD APGAR.xlsx
+│   │   ├── PARTOGRAMA EXEL DETALLES.xlsx
+│   │   ├── PARTOGRAMA EXEL.xlsx
+│   │   ├── partograma hora real 1.docx
+│   │   ├── ~$PARTOGRAMA EXEL BALLARD APGAR.xlsx
+│   │   ├── ~$PARTOGRAMA EXEL.xlsx
+│   │   ├── ~$rtograma hora real 1.docx
+│   │   └── ~WRL2743.tmp
+│   ├── PARTOGRAMA DIGITAL.xls
+│   ├── PARTOGRAMA.xlsx
+│   └── planos de hodge.jpg
+├── periodontal diseases 50 slides.pptx
+├── quemaduras
+│   ├── Screenshot_2017-03-23-19-40-19.png
+│   ├── Screenshot_2017-03-23-19-44-45.png
+│   ├── Screenshot_2017-03-23-19-47-48.png
+│   └── Screenshot_2017-03-23-19-57-39.png
+├── sulfato de magnesio ver dosis niños
+│   ├── IMG_20170221_224721.jpg
+│   ├── dosis ninos sulfato de magnesio asma y embarazo.xlsx
+│   ├── dosis sulf mag asma .jpg
+│   ├── infusiones tocolitico.jpg
+│   ├── tocolitico nifedipino.docx
+│   └── tocolitico nifedipino.pdf
+├── ~$DIAGNOSTICOS.xlsx
+└── ~BROMIUM
+    ├── GUIA_MEDICA_de_Bolsillo con graficos.pdf
+    └── Medicina de Urgencias y Emergencias. Jimenez Murillo 5a_booksmedicos.org.pdf
+
+
+
