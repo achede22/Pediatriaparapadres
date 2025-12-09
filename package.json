@@ -1,5 +1,5 @@
 {
-      "name": "PediatrIA - Guia para estudiantes",
+      "name": "PediatrIA - Guia para padres",
       "version": "0.1.0",
       "homepage": "https://achede22.github.io/Pediatriaparapadres",
       "private": true,
@@ -46,7 +46,7 @@
             "react-dom": "^18.3.1",
             "react-hook-form": "^7.55.0",
             "react-resizable-panels": "^2.1.7",
-            "react-router-dom": "^7.9.6",
+            "react-router-dom": "^6.28.0",
             "recharts": "^2.15.2",
             "sonner": "^2.0.3",
             "tailwind-merge": "*",
@@ -61,6 +61,7 @@
       },
       "scripts": {
             "dev": "vite",
-            "build": "vite build"
+            "build": "vite build",
+            "postbuild": "cp build/index.html build/404.html"
       }
 }
